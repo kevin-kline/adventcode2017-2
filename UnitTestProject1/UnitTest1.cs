@@ -7,7 +7,7 @@ namespace UnitTestProject1
     [TestClass]
     public class UnitTest1
     {
-        const string TEST_FILEPATH = "C:/Users/Brave/source/repos/adventcode2017-2/adventcode2017-2/resources/checkSumTestInput.txt";
+        const string TEST_FILEPATH = "./../../../resources/checkSumTestInput.txt";
         const int TEST_STRING_LIST_COUNT = 3;
         const int TEST_CHECKSUM = 18;
 

@@ -6,7 +6,7 @@ namespace adventcode2017_2
 {
     public class Program
     {
-        const string FILEPATH = "C:/Users/Brave/source/repos/adventcode2017-2/adventcode2017-2/resources/checkSumInput.txt";
+        const string FILEPATH = "./../../../resources/checkSumInput.txt";
         
 
         public static List<String> getStringListFromFile(string filepath)
